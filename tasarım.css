@@ -1,0 +1,18 @@
+img#logo {
+	margin-top: 200px;
+
+
+}
+input.yazialani{
+	width: 800px;
+	height: 30px;
+	padding-left: 20px;
+	font-size: 20px;
+}
+
+button.buton {
+	padding: 5px;
+	height: 30px;
+	background-color: lightgrey;
+	border-radius: 8px;
+}

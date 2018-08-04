@@ -1,0 +1,25 @@
+img#logo {
+	margin-top: 200px;
+}
+input.yazialani{
+	width: 800px;
+	height: 30px;
+	padding-left: 20px;
+	font-size: 20px;
+}
+button.buton {
+	padding: 5px;
+	height: 30px;
+	background-color: lightgrey;
+	border-radius: 8px;
+}
+   .copyright{
+        margin-top: 200px; +
+        height: 35px;
+        background-color: #dddddd;
+        padding-top: 10px;
+        padding-left: 10px;
+}
+body {
+	margin: 0px;
+}

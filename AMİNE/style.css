@@ -1,0 +1,39 @@
+.alan{
+    background-color: red;/*arkaplan rengini değiştir*/
+    width: 300px;/* genişliği değiştirir*/
+    font-size: 20px; /*yazıların büyüklüğünü değiştir*/
+    color:white; /* yazıların rengini değiştir*/
+}
+
+
+.yenialan {
+    background-color: blue;
+    width: 300px;
+
+    height: 100px;/* yüksekliğini değiştirir.*/
+}
+h1#baslik{
+	color: yellow:/*yazı rengini değiştirir*/
+}
+a.link{
+	color:yellow;
+}
+p#paragraf{
+
+	font-weight:bold;/*yazının kalınlığını değiştirir*/
+}
+ul#liste{
+	list-style: none;/*listeleme stilini değiştirir*/
+}
+li.madde{
+	fload:left;/*maddeleri sola alır*/
+}
+
+.tabloalani{
+	background-color:purple;
+	color:black;
+	overflow:hidden;
+}
+
+
+
